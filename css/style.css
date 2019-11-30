@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+    background: white;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.headerSection {
+    width: 100%;
+    height: 80px;
+}
+
+.headerSectionInside {
+    width: 90%;
+    height: 80px;
+    margin: 0px 65px;
+}
+
+.headerLeft {
+    width: 450px;
+    height: 80px;
+    float: left;
+}
+
+.headerRight {
+    width: 608px;
+    height: 80px;
+    float: left;
+    margin-left: 170px;
+}
+
+.logoImage {
+    height: 46px;
+    width: 32px;
+    padding: 16px;
+    float: left;
+}
+
+.address1 {
+    text-decoration: underline;
+    margin-top: 34px;
+    margin-left: 12px;
+    float: left;
+    color: black;
+    font-size: 10px;
+}
+
+.address1 b {
+    font-size: 15px;
+}
+
+.address2 {
+    display: inline-block;
+    margin-top: 38px;
+    margin-left: 10px;
+    color: #333;
+    font-size: 14px;
+    text-indent: 2px;
+}
+
+.fa-angle-down {
+    color: orangered;
+}
+
+.menu1 {
+    margin-top: 30px;
+    font-size: 16px;
+    float: left;
+}
+
+.fa-search {
+    margin-right: 4px;
+}
+
+.menu2 {
+    margin-top: 30px;
+    font-size: 16px;
+    float: left;
+}
+
+.menu2Image {
+    height: 20px;
+    margin-left: 67px;
+    margin-right: 2px;
+}
+
+.menu3 {
+    margin-top: 30px;
+    font-size: 16px;
+    float: left;
+}
+
+.fa-question {
+    margin-left: 54px;
+    margin-right: 2px;
+}
+
+.menu4 {
+    margin-top: 30px;
+    font-size: 16px;
+    float: left;
+}
+
+.fa-user-o {
+    margin-left: 72px;
+    margin-right: 8px;
+}
+
+.menu5 {
+    margin-top: 30px;
+    font-size: 16px;
+    float: left;
+}
+
+.fa-caret-square-o-up {
+    margin-left: 62px;
+    margin-right: 4px;
+}
+
+.contentSection {
+    background: #171a29;
+    width: 100%;
+    height: 340px;
+    margin: 0;
+    padding: 0;
+}
+
+.contentSectionInside {
+    height: 340px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.image1 {
+    height: 260px;
+    width: 250px;
+    padding-top: 28px;
+    padding-right: 45px;
+    padding-left: 20px;
+    float: left;
+}
+
+.image2 {
+    height: 260px;
+    width: 250px;
+    padding-top: 28px;
+    padding-right: 45px;
+    float: left;
+}
+
+.image3 {
+    height: 260px;
+    width: 250px;
+    padding-top: 28px;
+    padding-right: 45px;
+    float: left;
+}
+
+.image4 {
+    height: 260px;
+    width: 250px;
+    padding-top: 28px;
+    float: left;
+}
+
+.footerSection {
+    height: 110px;
+    width: 100%;
+}
+
+.footerSectionInside {
+    width: 90%;
+    height: 110px;
+    margin-left: 65px;
+    display: inline-block;
+}
+
+.footerLeft {
+    float: left;
+    width: 600px;
+}
+
+.LeftImage1 {
+    height: 80px;
+    width: 100px;
+    float: left;
+    padding-top: 20px;
+}
+
+.leftText {
+    float: left;
+    padding-left: 20px;
+    padding-top: 30px;
+    font-size: 12px;
+    text-indent: 2px;
+}
+
+b {
+    font-size: 20px;
+}
+
+button {
+    margin-top: 40px;
+    margin-left: 40px;
+    background: #e46d47;
+    height: 35px;
+    width: 110px;
+    border: none;
+    color: white;
+}
+
+.footerRight {
+    float: left;
+    width: 600px;
+    margin-left: 10px;
+}
+
+.RightImage1 {
+    height: 70px;
+    width: 80px;
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.RightText {
+    float: left;
+    padding-left: 20px;
+    padding-top: 30px;
+    font-size: 12px;
+    text-indent: 2px;
+}
+
+b {
+    font-size: 20px;
+}
+
+button {
+    margin-top: 40px;
+    margin-left: 40px;
+    background: #e46d47;
+    height: 35px;
+    width: 140px;
+    border: none;
+    color: white;
+}   
